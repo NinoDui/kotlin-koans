@@ -7,7 +7,6 @@ fun example4() {
 
 fun Shop.getCustomerWithMaximumNumberOfOrders(): Customer? {
     // Return a customer whose order count is the highest among all customers
-    todoCollectionTask()
 }
 
 fun Customer.getMostExpensiveOrderedProduct(): Product? {
